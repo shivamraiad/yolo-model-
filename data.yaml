@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 36
+names: ['Araldite _XIN EPOXY RESIN', 'Araldite_KLEAR 5', 'Araldite_STANDARD', 'Araldite_STANDARD  EPOXY HARDENER', 'Araldite_XIN EPOXY HARDENER', 'BONDTITE_FAST - CLEAR', 'BONDTITE_STRONG - CLEAR', 'BONDTITE_SUPER STRENGTH', 'D-klog_Drain Cleaner', 'Dr. Fixit_101 LW', 'Dr. Fixit_103 REPELLIN WR', 'Dr. Fixit_302 Super Latex', 'Dr. Fixit_404 fevimate tg', 'Fevibond', 'Fevicol_HEATX', 'Fevicol_Marine', 'Fevicol_PROBOND', 'Fevicol_SH', 'Fevicol_SR 505', 'Fevicol_SR 998', 'Fevikwik', 'Fevikwik_203', 'M-Seal_RTV', 'Other', 'PV-Seal_CPVC SOLVENT CEMENT', 'PV-Seal_PVC SOLVENT CEMENT', 'PV-Seal_UPVC SOLVENT CEMENT', 'RESIBOND_GENERAL PURPOSE GP 100', 'Roff_T01 NCA New Construction Tile Adhesive', 'Trugrip_tapes', 'VETRA_LV 401', 'WD-40', 'dr. fixit_233 pidicrete wp', 'fevigum', 'polygrip', 'poster']
+
+roboflow:
+  workspace: shivam-xmfad
+  project: my-first-project-kw84n
+  version: 9
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/shivam-xmfad/my-first-project-kw84n/dataset/9
