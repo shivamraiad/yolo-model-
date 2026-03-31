@@ -4,10 +4,10 @@ val: /home/alchemyte/Yolo_17_03/BONDTITE,Fevicol,Fevikwik,resibond,vetra/prepare
 test: /home/alchemyte/Yolo_17_03/BONDTITE,Fevicol,Fevikwik,resibond,vetra/prepared/test/images
 nc: 7
 names:
-  0: BONDTITE_FAST - CLEAR
-  1: BONDTITE_SUPER STRENGTH
-  2: Fevicol_HEATX
-  3: Fevicol_SH
-  4: Fevikwik_203
-  5: RESIBOND_GENERAL PURPOSE GP 100
-  6: VETRA_LV 401
+  0: Astral_BONDTITE_FAST & CLEAR
+  1: Astral_BONDTITE_SUPER STRENGTH
+  2: Pidilite_Fevicol_HEATX
+  3: Pidilite_Fevicol_SH
+  4: Pidilite_Fevikwik_203
+  5: Astral_RESIBOND_GENERAL PURPOSE GP 100
+  6: Astral_VETRA_LV 401
